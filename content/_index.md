@@ -9,7 +9,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para esta etapa de Backend son:
 
-- Mejorar mis habilidades de programación con NodeJs
+- Mejorar mis habilidades de programación con NodeJs.
 - Aprender tips útiles como desarrollador.
 - Practicar mis conocimientos previos y los obtenidos durante esta etapa.
 
