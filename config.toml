@@ -10,11 +10,6 @@ pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 paginate = 3
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 [params]
   google_analytics_id = ""
   # Hey Explorer aquí pon tu twitter 👇
@@ -24,3 +19,8 @@ paginate = 3
   showPostsOnHomepage = false
   addFrame = true
   addDot = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
